@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Jank Time blog for my projects
+title: Welcome to the Jank Time Blog
 ---
 
 test
