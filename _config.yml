@@ -1,3 +1,4 @@
 title: Jank Time
 theme: jekyll-theme-cayman
-permalink: /:year/:month/:day/:title.md
+permalink: /:year/:month/:day/:title.html
+baseurl: "/janktime"
