@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Jank Time Blog
+title: Jank Time Blog
 ---
 
 {% for post in site.posts limit:1 %}
