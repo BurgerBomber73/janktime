@@ -1,4 +1,4 @@
 title: Jank Time
-theme: jekyll-theme-dinky
+theme: jekyll-theme-hacker
 permalink: /:year/:month/:day/:title.html
 baseurl: "/janktime"
