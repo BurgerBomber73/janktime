@@ -1,4 +1,4 @@
 title: Jank Time
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 permalink: /:year/:month/:day/:title.html
 baseurl: "/janktime"
